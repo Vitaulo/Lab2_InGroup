@@ -1,0 +1,45 @@
+D:\Subjects\Forth\second\ПРПП\PRPP-Lab2\Money\bin\Debug\net6.0\Money.exe
+D:\Subjects\Forth\second\ПРПП\PRPP-Lab2\Money\bin\Debug\net6.0\Money.deps.json
+D:\Subjects\Forth\second\ПРПП\PRPP-Lab2\Money\bin\Debug\net6.0\Money.runtimeconfig.json
+D:\Subjects\Forth\second\ПРПП\PRPP-Lab2\Money\bin\Debug\net6.0\Money.dll
+D:\Subjects\Forth\second\ПРПП\PRPP-Lab2\Money\bin\Debug\net6.0\Money.pdb
+D:\Subjects\Forth\second\ПРПП\PRPP-Lab2\Money\obj\Debug\net6.0\Money.csproj.AssemblyReference.cache
+D:\Subjects\Forth\second\ПРПП\PRPP-Lab2\Money\obj\Debug\net6.0\Money.GeneratedMSBuildEditorConfig.editorconfig
+D:\Subjects\Forth\second\ПРПП\PRPP-Lab2\Money\obj\Debug\net6.0\Money.AssemblyInfoInputs.cache
+D:\Subjects\Forth\second\ПРПП\PRPP-Lab2\Money\obj\Debug\net6.0\Money.AssemblyInfo.cs
+D:\Subjects\Forth\second\ПРПП\PRPP-Lab2\Money\obj\Debug\net6.0\Money.csproj.CoreCompileInputs.cache
+D:\Subjects\Forth\second\ПРПП\PRPP-Lab2\Money\obj\Debug\net6.0\Money.dll
+D:\Subjects\Forth\second\ПРПП\PRPP-Lab2\Money\obj\Debug\net6.0\refint\Money.dll
+D:\Subjects\Forth\second\ПРПП\PRPP-Lab2\Money\obj\Debug\net6.0\Money.pdb
+D:\Subjects\Forth\second\ПРПП\PRPP-Lab2\Money\obj\Debug\net6.0\Money.genruntimeconfig.cache
+D:\Subjects\Forth\second\ПРПП\PRPP-Lab2\Money\obj\Debug\net6.0\ref\Money.dll
+C:\Users\User\Desktop\lab2prpp\Money\bin\Debug\net6.0\Money.exe
+C:\Users\User\Desktop\lab2prpp\Money\bin\Debug\net6.0\Money.deps.json
+C:\Users\User\Desktop\lab2prpp\Money\bin\Debug\net6.0\Money.runtimeconfig.json
+C:\Users\User\Desktop\lab2prpp\Money\bin\Debug\net6.0\Money.dll
+C:\Users\User\Desktop\lab2prpp\Money\bin\Debug\net6.0\Money.pdb
+C:\Users\User\Desktop\lab2prpp\Money\obj\Debug\net6.0\Money.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\lab2prpp\Money\obj\Debug\net6.0\Money.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\lab2prpp\Money\obj\Debug\net6.0\Money.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\lab2prpp\Money\obj\Debug\net6.0\Money.AssemblyInfo.cs
+C:\Users\User\Desktop\lab2prpp\Money\obj\Debug\net6.0\Money.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\lab2prpp\Money\obj\Debug\net6.0\Money.dll
+C:\Users\User\Desktop\lab2prpp\Money\obj\Debug\net6.0\refint\Money.dll
+C:\Users\User\Desktop\lab2prpp\Money\obj\Debug\net6.0\Money.pdb
+C:\Users\User\Desktop\lab2prpp\Money\obj\Debug\net6.0\Money.genruntimeconfig.cache
+C:\Users\User\Desktop\lab2prpp\Money\obj\Debug\net6.0\ref\Money.dll
+B:\ПМ\8 семестр\ПРПП\PRPP-Lab2\Money\bin\Debug\net6.0\Money.exe
+B:\ПМ\8 семестр\ПРПП\PRPP-Lab2\Money\bin\Debug\net6.0\Money.deps.json
+B:\ПМ\8 семестр\ПРПП\PRPP-Lab2\Money\bin\Debug\net6.0\Money.runtimeconfig.json
+B:\ПМ\8 семестр\ПРПП\PRPP-Lab2\Money\bin\Debug\net6.0\Money.dll
+B:\ПМ\8 семестр\ПРПП\PRPP-Lab2\Money\bin\Debug\net6.0\Money.pdb
+B:\ПМ\8 семестр\ПРПП\PRPP-Lab2\Money\obj\Debug\net6.0\Money.csproj.AssemblyReference.cache
+B:\ПМ\8 семестр\ПРПП\PRPP-Lab2\Money\obj\Debug\net6.0\Money.GeneratedMSBuildEditorConfig.editorconfig
+B:\ПМ\8 семестр\ПРПП\PRPP-Lab2\Money\obj\Debug\net6.0\Money.AssemblyInfoInputs.cache
+B:\ПМ\8 семестр\ПРПП\PRPP-Lab2\Money\obj\Debug\net6.0\Money.AssemblyInfo.cs
+B:\ПМ\8 семестр\ПРПП\PRPP-Lab2\Money\obj\Debug\net6.0\Money.csproj.CoreCompileInputs.cache
+B:\ПМ\8 семестр\ПРПП\PRPP-Lab2\Money\obj\Debug\net6.0\Money.dll
+B:\ПМ\8 семестр\ПРПП\PRPP-Lab2\Money\obj\Debug\net6.0\refint\Money.dll
+B:\ПМ\8 семестр\ПРПП\PRPP-Lab2\Money\obj\Debug\net6.0\Money.pdb
+B:\ПМ\8 семестр\ПРПП\PRPP-Lab2\Money\obj\Debug\net6.0\Money.genruntimeconfig.cache
+B:\ПМ\8 семестр\ПРПП\PRPP-Lab2\Money\obj\Debug\net6.0\ref\Money.dll
