@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Purse/1.0.0": {
+        "dependencies": {
+          "BusinessCard": "1.0.0",
+          "CreditCard": "1.0.0",
+          "Money": "1.0.0"
+        },
+        "runtime": {
+          "Purse.dll": {}
+        }
+      },
+      "BusinessCard/1.0.0": {
+        "runtime": {
+          "BusinessCard.dll": {}
+        }
+      },
+      "CreditCard/1.0.0": {
+        "runtime": {
+          "CreditCard.dll": {}
+        }
+      },
+      "Money/1.0.0": {
+        "runtime": {
+          "Money.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Purse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BusinessCard/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CreditCard/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Money/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

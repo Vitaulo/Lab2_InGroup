@@ -1,0 +1,254 @@
+{
+  "format": 1,
+  "restore": {
+    "B:\\ПМ\\8 семестр\\ПРПП\\PRPP-Lab2\\Purse\\Purse.csproj": {}
+  },
+  "projects": {
+    "B:\\ПМ\\8 семестр\\ПРПП\\PRPP-Lab2\\BusinessCard\\BusinessCard.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "B:\\ПМ\\8 семестр\\ПРПП\\PRPP-Lab2\\BusinessCard\\BusinessCard.csproj",
+        "projectName": "BusinessCard",
+        "projectPath": "B:\\ПМ\\8 семестр\\ПРПП\\PRPP-Lab2\\BusinessCard\\BusinessCard.csproj",
+        "packagesPath": "C:\\Users\\mixas\\.nuget\\packages\\",
+        "outputPath": "B:\\ПМ\\8 семестр\\ПРПП\\PRPP-Lab2\\BusinessCard\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mixas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "B:\\ПМ\\8 семестр\\ПРПП\\PRPP-Lab2\\CreditCard\\CreditCard.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "B:\\ПМ\\8 семестр\\ПРПП\\PRPP-Lab2\\CreditCard\\CreditCard.csproj",
+        "projectName": "CreditCard",
+        "projectPath": "B:\\ПМ\\8 семестр\\ПРПП\\PRPP-Lab2\\CreditCard\\CreditCard.csproj",
+        "packagesPath": "C:\\Users\\mixas\\.nuget\\packages\\",
+        "outputPath": "B:\\ПМ\\8 семестр\\ПРПП\\PRPP-Lab2\\CreditCard\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mixas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "B:\\ПМ\\8 семестр\\ПРПП\\PRPP-Lab2\\Money\\Money.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "B:\\ПМ\\8 семестр\\ПРПП\\PRPP-Lab2\\Money\\Money.csproj",
+        "projectName": "Money",
+        "projectPath": "B:\\ПМ\\8 семестр\\ПРПП\\PRPP-Lab2\\Money\\Money.csproj",
+        "packagesPath": "C:\\Users\\mixas\\.nuget\\packages\\",
+        "outputPath": "B:\\ПМ\\8 семестр\\ПРПП\\PRPP-Lab2\\Money\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mixas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "B:\\ПМ\\8 семестр\\ПРПП\\PRPP-Lab2\\Purse\\Purse.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "B:\\ПМ\\8 семестр\\ПРПП\\PRPP-Lab2\\Purse\\Purse.csproj",
+        "projectName": "Purse",
+        "projectPath": "B:\\ПМ\\8 семестр\\ПРПП\\PRPP-Lab2\\Purse\\Purse.csproj",
+        "packagesPath": "C:\\Users\\mixas\\.nuget\\packages\\",
+        "outputPath": "B:\\ПМ\\8 семестр\\ПРПП\\PRPP-Lab2\\Purse\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mixas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "B:\\ПМ\\8 семестр\\ПРПП\\PRPP-Lab2\\BusinessCard\\BusinessCard.csproj": {
+                "projectPath": "B:\\ПМ\\8 семестр\\ПРПП\\PRPP-Lab2\\BusinessCard\\BusinessCard.csproj"
+              },
+              "B:\\ПМ\\8 семестр\\ПРПП\\PRPP-Lab2\\CreditCard\\CreditCard.csproj": {
+                "projectPath": "B:\\ПМ\\8 семестр\\ПРПП\\PRPP-Lab2\\CreditCard\\CreditCard.csproj"
+              },
+              "B:\\ПМ\\8 семестр\\ПРПП\\PRPP-Lab2\\Money\\Money.csproj": {
+                "projectPath": "B:\\ПМ\\8 семестр\\ПРПП\\PRPP-Lab2\\Money\\Money.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
